@@ -1,0 +1,40 @@
+● Function Definition:
+- A function definition consists of the new function's name and a block of statements. The
+function's name can be any valid identifier.
+
+● Function Call:
+- A function call is an invocation of a function's name, causing the function's statements to
+execute.
+
+● Local Variable:
+- A local variable is a variable declared in a function, which is then accessible only within
+that function.
+
+● Parameter:
+- A parameter is a function input specified in a function definition.
+
+● Argument:
+- An argument is a value provided to a function's parameter during a function
+call.
+
+● Return Variable:
+- A function may return one value by assigning a return variable .
+
+● Return Value:
+- Return value is returned along with a return variable.
+
+● Modular Development:
+- Modular Development is separating a program's 
+functions into independent pieces or building blocks, 
+each containing all the parts needed to execute 
+a single aspect of the functionality.
+
+● Incremental Development:
+- Incremental development in software engineering is a process methodology 
+that emphasizes the virtue of taking small steps 
+toward the goal.
+
+● Function Stub:
+- A Function Stub  helps write the test and serves as a kind of 
+scaffolding to make it possible to run the examples 
+even before the function design is complete.

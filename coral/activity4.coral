@@ -1,0 +1,8 @@
+Function ComputeSquare( integer numToSquare) returns integer numSquared
+   integer squaredVal
+   numSquared=numToSquare*numToSquare
+   Put squaredVal to output
+
+Function Main()returns nothing
+   integer squaredVal
+   squaredVal= ComputeSquare(7)
